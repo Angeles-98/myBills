@@ -1,1 +1,43 @@
-"# myBills" 
+{
+    "factura":[{
+            "num_factura":"fac_001",
+            "num_documento":"11111",
+            "nombre":"gamer 1",
+            "telefono":"111",
+            "valor":"4000",
+            "descripcion":"gamer 1"
+        },
+        {
+            "num_factura":"fac_002",
+            "num_documento":"22222",
+            "nombre":"gamer 2",
+            "telefono":"222",
+            "valor":"4000",
+            "descripcion":"gamer 2"
+        },
+        {
+            "num_factura":"fac_003",
+            "num_documento":"33333",
+            "nombre":"gamer 3",
+            "telefono":"333",
+            "valor":"4000",
+            "descripcion":"gamer 3"
+        },
+        {
+            "num_factura":"fac_004",
+            "num_documento":"44444",
+            "nombre":"gamer 4",
+            "telefono":"444",
+            "valor":"4000",
+            "descripcion":"gamer 4"
+        },
+        {
+            "num_factura":"fac_005",
+            "num_documento":"55555",
+            "nombre":"gamer 5",
+            "telefono":"555",
+            "valor":"4000",
+            "descripcion":"gamer 5"
+        }
+    ]
+}
