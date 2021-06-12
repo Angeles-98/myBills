@@ -8,6 +8,22 @@
             "descripcion":"gamer 1"
         },
         {
+            "num_factura":"fac_032",
+            "num_documento":"22222",
+            "nombre":"gamer 2",
+            "telefono":"222",
+            "valor":"5000",
+            "descripcion":"gamer 2"
+        },
+        {
+            "num_factura":"fac_022",
+            "num_documento":"22222",
+            "nombre":"gamer 2",
+            "telefono":"222",
+            "valor":"8000",
+            "descripcion":"gamer 2"
+        },
+        {
             "num_factura":"fac_002",
             "num_documento":"22222",
             "nombre":"gamer 2",
